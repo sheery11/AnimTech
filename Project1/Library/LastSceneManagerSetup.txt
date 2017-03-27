@@ -1,0 +1,4 @@
+sceneSetups:
+- path: "Assets/AnimTech/Demo/\u7ED8\u753BDemo.unity"
+  isLoaded: 1
+  isActive: 1

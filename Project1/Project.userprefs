@@ -1,0 +1,17 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\AnimTech\授课\第二周周三\34\script\我最美.cs">
+    <Files>
+      <File FileName="Assets\AnimTech\授课\第二周周三\34\script\你热恋.cs" Line="1" Column="1" />
+      <File FileName="Assets\AnimTech\授课\第二周周三\34\script\控制笔刷缩放强度.cs" Line="1" Column="1" />
+      <File FileName="Assets\AnimTech\授课\第二周周三\34\script\旋转跳跃.cs" Line="1" Column="1" />
+      <File FileName="Assets\AnimTech\授课\第二周周三\34\script\随机旋转.cs" Line="1" Column="1" />
+      <File FileName="Assets\AnimTech\授课\第二周周三\34\script\画笔喷溅.cs" Line="1" Column="1" />
+      <File FileName="Assets\AnimTech\授课\第二周周三\34\script\我最美.cs" Line="21" Column="35" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
